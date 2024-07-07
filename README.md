@@ -1,7 +1,7 @@
 <h3>Interested in ... </h3>
 
 - Distributed Systems & Backend Engineering 
-- Algorithms and High-Performance Computing
+- Algorithms & High-Performance Computing
 - Machine Learning
 
 <a href="https://github.com/prashundey/convoychat">
